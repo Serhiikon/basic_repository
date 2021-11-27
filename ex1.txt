@@ -1,4 +1,4 @@
-first line new
+first line old
 one
 two
 three
@@ -7,5 +7,3 @@ five
 six
 seven
 last line
-very last line
-very very last line
